@@ -1,2 +1,6 @@
 # Code_snippets
-code snippets in your fav. language
+Code snippets in your fav. language
+
+### How to contribute
+---
+See [CONTRIBUTING.md]()
